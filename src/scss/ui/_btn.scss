@@ -1,0 +1,24 @@
+.button {
+    cursor: pointer;
+    // display: inline-flex;
+}
+
+
+
+
+
+
+.kompleksnaya-podderzhka-sayta {
+    .button {
+        display: inline-flex;
+        transition: all .3s ease-in-out;
+
+        &:hover {
+            color: #fff;
+            transform: translate(0, 5px);
+            opacity: .9;
+        }
+    }
+}
+
+

@@ -1,0 +1,67 @@
+// @import '../../node_modules/bootstrap-3-grid/bootstrap-3-grid.css';
+// @import '../../node_modules/bootstrap/dist/css/bootstrap.css';
+@import '../scss/indentation';
+@import '../scss/ui/flex';
+@import '../scss/ui/fs';
+@import '../scss/ui/color';
+@import '../scss/ui/btn';
+@import '../scss/ui/icon';
+@import '../scss/ui/link';
+
+// sections
+@import '../scss/kompleksnaya-podderzhka-sayta';
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.h1, .h2, .h3, .h4, .h5, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+
+
+.tac {
+    text-align: center;
+}
+
+.opac {
+
+    &__07 {
+        opacity: .7;
+    }
+}
+
+.fontw-700 {
+    font-weight: 700;
+}
+
+
+.border-r {
+
+    &__50 {
+        border-radius: 50px;
+    }
+}
+
+.wdh-100 {
+    width: 100%;
+}
+
+
+// Animate
+
+
+.shadow {
+    
+    &__green {
+        box-shadow: 0px 5px 15px -3px #359912;
+    }
+    &__violet {
+        box-shadow: 0px 5px 15px -3px #5A7CE7;
+    }
+}
