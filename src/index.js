@@ -1,8 +1,11 @@
-// import '../node_modules/bootstrap3/dist/css/bootstrap.min.css';
+
+
+// import 'bootstrap/js/dist/tooltipe';
+// import $ from "jquery";
+
 
 import './scss/main.scss';
-
-
+import index from './js/index';
 
 
 
