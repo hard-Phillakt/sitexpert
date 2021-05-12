@@ -13,7 +13,7 @@
     "mask-input": "^1.0.3",
     "popper.js": "^1.16.1",
     "rellax": "^1.12.1",
-    "swiper": "^5.3.8",
+    "swiper": "^6.5.1",
     "validator": "^13.0.0",
     "webpack-cli": "^3.3.0"
   },
